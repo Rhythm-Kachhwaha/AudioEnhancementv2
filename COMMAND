@@ -1,0 +1,10 @@
+python core\realtime_mic_bridge.py --checkpoint checkpoint\latest_checkpoint.pt --reference testing\refaudio\clean_audio_sargam.wav --chunk 0.16 --profile
+
+
+need to do after everything pip install pathlib
+
+
+
+cd .\dist\realtime_mic_bridge
+>> .\realtime_mic_bridge.exe --checkpoint ..\..\checkpoint\latest_checkpoint.pt --reference ..\..\testing\refaudio\clean_audio_sargam.wav --chunk 0.16 --profile
+>>

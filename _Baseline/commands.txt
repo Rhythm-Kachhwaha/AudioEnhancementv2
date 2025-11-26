@@ -1,0 +1,6 @@
+tmux attach -t train_session
+
+python -m testing.inference -c checkpoints/latest_checkpoint.pt -r clean_audio.wav -n testing/noise2.wav -o testing/enhanced_output2.wav -v
+
+
+python realtime_inference.py -c checkpoint\speaker_enhancer_epoch_015.pt -r clean_audio.wav -v -s -f my_enhanced_session.wav

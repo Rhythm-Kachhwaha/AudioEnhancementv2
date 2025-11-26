@@ -1,0 +1,1 @@
+python core/inference.py -c /home/mayank.500106701/Audio_Cleaning_Major1/OnlyAttention/checkpoints/latest_checkpoint.pt -r /home/mayank.500106701/Audio_Cleaning_Major1/OnlyAttention/testing/clean_audio_sargam.wav -n /home/mayank.500106701/Audio_Cleaning_Major1/OnlyAttention/testing/test1.wav -o testing/enhanced_output_test1_sargam_50.wav -v

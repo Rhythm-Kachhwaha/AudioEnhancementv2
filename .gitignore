@@ -1,0 +1,12 @@
+**/build/
+**/dist/
+**/checkpoint/
+**/checkpoints/
+__pycache__/
+*.pyc
+*.pt
+*.ckpt
+*.pth
+.DS_Store
+.vscode/
+.idea/

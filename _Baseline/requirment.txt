@@ -1,0 +1,9 @@
+torch
+torchaudio
+nemo_toolkit[asr]
+soundfile
+numpy
+requests
+soundfile
+imageio[ffmpeg]
+pyaudio
