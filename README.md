@@ -88,7 +88,15 @@ This modular architecture ensures scalability and easy integration with future m
 
 # Model Architecture
 
-## Baseline Model
+## Baseline Model (CNN + STFT + LSTM)
+
+![Baseline Architecture](images/cnn_lstm_architecture.jpg)
+
+
+
+## Transformer-Based Model
+
+
 
 The initial baseline architecture consists of:
 
@@ -103,6 +111,8 @@ However, the baseline struggles with overlapping speakers and complex noise envi
 ---
 
 ## Proposed Transformer Based Model
+
+![Transformer Architecture](images/transformer_architecture.jpg)
 
 To improve performance, the system incorporates a **Transformer-Conformer hybrid architecture**.
 
