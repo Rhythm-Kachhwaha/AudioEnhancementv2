@@ -227,15 +227,17 @@ Potential improvements include:
 * Further latency optimization
 
 ---
+## Contributors
 
-# Contributors
+- Rhythm Kachhwaha
+- Mayank Saini
+- Nishant Singh
+- Lakshya Gupta
 
-Rhythm Kachhwaha 
-Mayank Saini
-Nishant Singh
-Lakshya Gupta
+**Project Guide:**  
+Dr. Amit Ranjan  
 
-Project Guide: Dr. Amit Ranjan
+**Institution:**  
 University of Petroleum and Energy Studies
 
 ---
