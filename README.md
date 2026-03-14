@@ -2,6 +2,11 @@
 
 Real-time Target Speech Enhancement and Noise Reduction
 
+## NOTE
+The model is currently being improved and optimized. 
+Final results and the best-performing model will be released in the final project update.
+Instructions for building the executable (.exe) and detailed steps for running the system locally will also be provided after the final release.
+
 ## Overview
 
 This project implements a deep learning based **Target Speech Enhancement (TSE)** system designed to isolate and enhance a specific speaker's voice from noisy environments. The system improves speech intelligibility and quality in scenarios such as online meetings, voice communication, and real-world audio recordings.
